@@ -25,3 +25,5 @@
   * Dense(512 , activation ='relu')
   * Dense(128 , activation ='relu')
   * Dense(7 , activation ='softmax')
+## Input Shape
+  * (224,224,3)
