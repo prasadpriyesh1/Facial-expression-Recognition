@@ -2,6 +2,9 @@
 ## Dataset
   I have used the following dataset from Kaggle</br>
   Dataset['https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset']</br>
+  
+  ** I was not able to upload the dataset because of the size constraint thus please download the data from the link and extract in same folder</br>
+  
   Classes in Dataset
   * angry
   * disgust
