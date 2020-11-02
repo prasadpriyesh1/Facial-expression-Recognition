@@ -15,7 +15,7 @@
   * surprise
   
 ## Netwok used
-  I have used the MobileNet network as my base network
+  I have used the VGG16 network as my base network
 ## Transfer learning and fine tuning
   I have added 6 layers to the existing architecture</br>
   Layers Added
